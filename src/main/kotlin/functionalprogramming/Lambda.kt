@@ -19,6 +19,6 @@ fun main() {
 
     val nameLength = nameLength("emha")
     println(nameLength)
-    
+
     sayHello("Syafiq")
 }
