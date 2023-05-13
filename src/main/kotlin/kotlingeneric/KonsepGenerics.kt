@@ -8,7 +8,7 @@ package kotlingeneric
 fun main() {
     // contoh bagaimana generic bekerja pada variabel dengan tipe List
     val contributor = listOf<String>("Syafiq", "Fajrian", "Emha")
-    
+
     // kita juga bisa mendeklarasikan lebih dari satu tipe parameter
     val points = mapOf<String, Int>("Syafiq" to 10, "Emha" to 20)
 }
